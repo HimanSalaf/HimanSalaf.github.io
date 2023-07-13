@@ -134,7 +134,7 @@ header .profile .Social-media a:hover {
 
 #me:before {
   content: "";
-  background: linear-gradient(to bottom,rgb(12, 12, 14),rgb(95, 92, 92),white);
+  background: linear-gradient(90deg, rgba(0,13,94,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   position: absolute;
   bottom: 0;
   top: 0;
